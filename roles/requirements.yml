@@ -4,3 +4,4 @@ roles:
     name: storpool.install_sp_python
   - src: https://github.com/storpool/ansible-role-storpool-bootstrap-node.git
     name: storpool.bootstrap_node
+    version: debian11_proxmox
